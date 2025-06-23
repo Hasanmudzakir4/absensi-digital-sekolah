@@ -7,7 +7,7 @@ const cors = require("cors")({ origin: true });
 admin.initializeApp();
 const db = admin.firestore();
 
-// 1️⃣ Fungsi AutoMark Absent
+// 1️⃣ Fungsi AutoMark Absent student
 exports.autoMarkAbsent = onSchedule(
   {
     schedule: "every 5 minutes",
