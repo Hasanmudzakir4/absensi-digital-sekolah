@@ -1,0 +1,35 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "app-absensi-sekolah",
+          "appId": "1:548736139139:android:37be158c1f120f0368c0b6",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "app-absensi-sekolah",
+          "configurations": {
+            "android": "1:548736139139:android:37be158c1f120f0368c0b6",
+            "web": "1:548736139139:web:2f8d132f7bd33e9d68c0b6"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "548736139139",
+    "project_id": "app-absensi-sekolah",
+    "storage_bucket": "app-absensi-sekolah.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548736139139:android:dda7c51a72ef5a2f68c0b6",
+        "android_client_info": {
+          "package_name": "com.example.absensi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2OIAQz28IrzutcZuS8X1WCsoe8LhyI10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548736139139:android:37be158c1f120f0368c0b6",
+        "android_client_info": {
+          "package_name": "com.example.absensi_sekolah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2OIAQz28IrzutcZuS8X1WCsoe8LhyI10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548736139139:android:6dbe2864217af16268c0b6",
+        "android_client_info": {
+          "package_name": "com.example.firebase_web_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2OIAQz28IrzutcZuS8X1WCsoe8LhyI10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
