@@ -53,3 +53,4 @@ app.*.map.json
 
 # File hasil generate dari Firebase CLI 
 /lib/firebase_options.dart
+firebase.json
