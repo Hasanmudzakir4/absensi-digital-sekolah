@@ -43,3 +43,13 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+
+# File konfigurasi Google Services 
+/android/app/google-services.json
+
+# File environment berisi variabel rahasia seperti API key, dsb.
+.env
+
+# File hasil generate dari Firebase CLI 
+/lib/firebase_options.dart
